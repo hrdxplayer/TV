@@ -3,7 +3,7 @@
   <h1>HRDX Player</h1>
   <p><b>Watch your favorites, everywhere.</b></p>
 
-  [![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/hrdxplayer/Mobile/releases/latest)
+  [![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/hrdxplayer/tv/releases/latest)
   [![Telegram](https://img.shields.io/badge/Telegram-Channel-0088cc?style=for-the-badge&logo=telegram)](https://t.me/hrdxplayer)
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 </div>
