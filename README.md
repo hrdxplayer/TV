@@ -13,8 +13,8 @@
 A free, open-source media app for your phone, your desktop, and the TV you already own. Bring your own sources. HRDX turns them into a library with artwork, ratings, subtitles, and your place saved on every screen.
 
 ### 🚀 Get HRDX Player
-- **Android:** Download the latest APK from the **[Releases Page](https://github.com/hhrdx/hrdx-player/releases/latest)**.
-- **Android TV:** *(Coming soon)*
+- **Android:** Download the latest APK from the **[Releases Page](https://github.com/hrdx-player/Mobile/releases/latest)**.
+- **Android TV:** Download the latest APK from the **[Releases Page](https://github.com/hrdxplayer/TV/releases/latest)**
 - **Windows / Linux:** *(Coming soon)*
 
 ### ✨ Key Features
